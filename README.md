@@ -36,9 +36,13 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 1. Copy `_worker.js` code from [here](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js).
 
-2. Alternatively, you can click the button below to deploy directly.
+2. UUIDGEN : https://www.uuidgenerator.net/
+3. FREE PROXYIP :
+   8.219.238.145 SG
+   140.83.82.164 JP
+2. Deploy,
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url-https://github.com/restiabot/EDtunnel-vless)
 
 ## Lazy to deploy
 
